@@ -1,9 +1,9 @@
-# *DAPT-631 Data Mining* (Spring 2022)
+# *DAPT-631 Data Mining* (Spring 2023)
 _Virginia Commonwealth University_
 
 ## Course Description:
 Data mining is not just a collection of tools and techniques. It’s a paradigm closely interconnected with other disciplines and activities such as statistics, computing, IT, marketing, policymaking, and ethics. The primary goal of this course is to provide a practical knowledge of Data Mining algorithms and a broader perspective to help students understand how Data Mining plays a role in the decision-making process. 
-We will use a two-pronged approach and focus on (a) concepts and (b) practice. We will learn the theoretical underpinning of Data Mining techniques and then implement them using Python. The exercises (in Python) will help students understand end-to-end Data Mining process – starting from business understanding to data collection and exploratory data analysis to model training, evaluation, and communication of results. 
+We will use a two-pronged approach and focus on Data Mining (a) concepts and (b) practice. We will learn the theoretical underpinning of Data Mining techniques and then implement them using Python. The exercises (in Python) will help students understand end-to-end Data Mining process – starting from business understanding to data collection and exploratory data analysis to model training, evaluation, and communication of results. 
 ## Prerequisites:
 In addition to being enrolled in the DAPT program, students are expected to be familiar with basic programming concepts, and the basics of Probability and Statistics.
 ## Instructor: 
