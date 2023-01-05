@@ -17,7 +17,7 @@ Assignments that are turned in late will receive a 15% penalty, i.e., the highes
 ## Supplementary Reading Material:
 In addition to the course slides (which will be made available to the students as the class progresses), the following books can provide supplementary learning materials:
 1.	Introduction to Data Mining by Tan, Steinbach, Karpatne, and Kumar ([link](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php))
-2.	An Introduction to Statistical Learning by James, Witten, Hastie, and Tibshirani ([link](http://faculty.marshall.usc.edu/gareth-james/ISL/))
+2.	An Introduction to Statistical Learning by James, Witten, Hastie, and Tibshirani ([link](https://trevorhastie.github.io/ISLR/))
 3.	Python Data Science Handbook by VanderPlas ([link](https://jakevdp.github.io/PythonDataScienceHandbook/))
 ## VCU Syllabus Statement: 
 Students should visit http://go.vcu.edu/syllabus and review all syllabus statement information. The full university syllabus statement includes information on safety, registration, the VCU Honor Code, student conduct, withdrawal and more.
