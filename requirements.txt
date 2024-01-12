@@ -1,5 +1,2 @@
-tensorflow==2.8.0
-pandas==1.5.3
-notebook==6.5.3
-seaborn==0.12.2
-protobuf==3.20.3
+jupyterlab==4.0.10
+pandas==2.1.4
