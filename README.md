@@ -1,4 +1,4 @@
-# *DAPT-631 Data Mining* (Spring 2025)
+# *DAPT-631 Data Mining* (Spring 2026)
 _Virginia Commonwealth University_
 
 ## Course Description:
